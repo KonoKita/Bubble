@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'OpenSansExtraBold';
+    src: url('../FONTS/OpenSans/static/OpenSans/OpenSans-ExtraBoldItalic.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../FONTS/OpenSans/static/OpenSans/OpenSans-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('../FONTS/OpenSans/static/OpenSans/OpenSans-Bold.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'TippyToesBold';
+    src: url("../fonts/TippyToesBold/TippytoesBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
